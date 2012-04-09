@@ -1,3 +1,9 @@
+## About Ylan's Fork
+
+This fork just remove's the test directory so that git repo can be used as a submodule on
+assets/vendor/jquery-rails and avoid erb problems when precompiling assets. The code is not 
+otherwise changed.
+
 ## pushState + ajax = pjax
 
             .--.
